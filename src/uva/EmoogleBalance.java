@@ -32,15 +32,20 @@ import java.util.Scanner;
 public class EmoogleBalance {  
      public static void main(String[] args) {  
     	 Scanner in = new Scanner(System.in);
-    	 String l;
-    	 int i=1;
-         while(!((l=in.nextLine()).equals("*"))) {                
-               if(l.startsWith("H")){ 
-            	   System.out.println("Case " + i++ + ": Hajj-e-Akbar");
-               }else
-            	   System.out.println("Case " + i++ + ": Hajj-e-Asghar");  
+    	 int t, nf,s,d,a,sum;
+    	 t=in.nextInt();
+         while((t--)!=0) {
+        	   sum=0;
+        	   nf=in.nextInt();
+               while((nf--)!=0){
+            	   s=in.nextInt();
+            	   a=in.nextInt();
+            	   d=in.nextInt();
+            	   sum= sum+s*d;
+               }
+               System.out.println(sum);
           
-         }  
+         }        
           
      }  
 }  
