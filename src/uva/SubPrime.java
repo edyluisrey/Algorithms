@@ -43,28 +43,19 @@ import java.util.Scanner;
 
 public class SubPrime {
 	static public void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		int t, c, p;
-		t = in.nextInt();		
-		boolean up, down;
-		System.out.println("Lumberjacks:");
-		while ((t--)!=0) {
-			up = down = false;
-			p=in.nextInt();					
-			for (int i = 0; i < 9; i++) {
-				c=in.nextInt();
-				if (p < c)
-					up = true;
-				else
-					down = true;
-				p = c;
-			}
-
-			if (up && down)
-				System.out.println("Unordered");
-			else
-				System.out.println("Ordered");
-		}
+	 	   Scanner in = new Scanner(System.in);
+	       int a = in.nextInt();  
+	       int b = in.nextInt();  
+	       int val;  
+	       while(a >= 0 && b >= 0) {  
+	            val = Math.abs(a - b);  
+	            if(val > 50) 
+	            	val = 100 - val;  
+	            System.out.println(val);  
+	            a = in.nextInt();  
+	            b = in.nextInt();  
+	       }  
+		
 
 
 	}
