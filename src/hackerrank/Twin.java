@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 
 public class Twin {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
         Scanner in= new Scanner(System.in);
@@ -18,13 +17,13 @@ public class Twin {
         		for(int p=1;p<=i;p++){
         			if(i%p==0) ci++;
         		}
-        		if(ci==2){
+        		if(ci==2){    
 	        		if(Math.abs(j-i)==2 || i!=1){   
 		        		int  cj=0;		        		
-		        		for(int jp=1;jp<=j;jp++){
+		        		for(int jp=1;jp*jp<=j;jp++){
 		        			if(j%jp==0) cj++;
 		        		}		        		
-		        		if(cj==2)
+		        		if(cj==2)  
 		        			count++; 
 	        		}
         		}
@@ -34,3 +33,8 @@ public class Twin {
 	}
 
 }
+
+
+
+
+
