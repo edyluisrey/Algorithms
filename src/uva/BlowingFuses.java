@@ -7,7 +7,7 @@ public class BlowingFuses {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
-		 int nd,no,c,currentCons,max,temp,ccase = 1;     
+		int nd,no,c,currentCons,max,temp,ccase = 1;     
          boolean blown;
          nd=in.nextInt();         
          while (nd != 0) {                

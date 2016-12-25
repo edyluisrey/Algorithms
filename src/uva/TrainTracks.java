@@ -9,9 +9,9 @@ public class TrainTracks {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        int count,s,t = Integer.parseInt(in.readLine());
-        String line;
-        while((t--)!=0) {
+		int count,s,t = Integer.parseInt(in.readLine());
+		String line;
+		while((t--)!=0) {
             count = 0;
             line = in.readLine();
             s = line.length();

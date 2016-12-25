@@ -10,7 +10,7 @@ public class Brainfuck {
 		// TODO Auto-generated method stub
 		BufferedReader in= new BufferedReader(new InputStreamReader(System.in));
 		int  t,count=1; 		
-        String line; 
+		String line; 
 	    t= Integer.parseInt(in.readLine());
 	    while((t--)!=0)
 	    {  

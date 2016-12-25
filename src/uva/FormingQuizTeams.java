@@ -9,13 +9,13 @@ public class FormingQuizTeams {   // Main
 
 	public static void main(String[] args) {
 		Scanner in= new Scanner(new InputStreamReader(System.in));
-        while(true){
-        	int n = in.nextInt();
-        	if(n==0)
-        		break;
+		while(true){
+			int n = in.nextInt();
+			if(n==0)
+				break;
 			String[] names= new String[16];
-	        int[] x= new int[16];
-	        int[] y= new int[16];        
+		    int[] x= new int[16];
+		    int[] y= new int[16];        
 			if(n<=8){
 				for(int i=0;i<n;i++){
 					names[i]= in.next();
@@ -25,7 +25,7 @@ public class FormingQuizTeams {   // Main
 				}
 				
 			}
-        }
+		}
 				    
 	}
 
