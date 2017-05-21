@@ -1,6 +1,6 @@
 # Algorithms-Java
 
-Solutions to problems on algorithms from UVa Online Judge(ACM-ICPC Live Archive), hackerrank.
+Solutions to problems on algorithms from UVa Online Judge(ACM-ICPC Live Archive), hackerrank, Leetcode.com
 
 My current statistic 
   - [UVa Online Judge - ACM-ICPC Live Archive](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=14&page=show_authorstats&userid=61430) 
@@ -45,12 +45,35 @@ My current statistic
 | [Love Calculator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1365)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/LoveCalculator.java)       | Uva-ACM-ICPC Live Archive        |
 | [Peter's Smokes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1287)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/PeterSmokes.java)       | Uva-ACM-ICPC Live Archive        |
 | [Flip Sort](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1268)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/FlipSort.java)       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
-| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| [rouble with a Pentagon](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1227)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/TroublePentagon.java)       | Uva-ACM-ICPC Live Archive        |
+| [Fourth Point !!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1183)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/FourthPoint.java)       | Uva-ACM-ICPC Live Archive        |
+| [Request for Proposal](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/RequestProposal.java)       | Uva-ACM-ICPC Live Archive        |
+| [What is the Median?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1048)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/WhatMedian.java)       | Uva-ACM-ICPC Live Archive        |
+| [WERTYU](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1023)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/WERTYU.java)       | Uva-ACM-ICPC Live Archive        |
+| [Primary Arithmetic](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=976)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/PrimaryArithmetic.java)       | Uva-ACM-ICPC Live Archive        |
+| [Reverse and Add](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=959)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/ReverseAdd.java)       | Uva-ACM-ICPC Live Archive        |
+| [Digit Counting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/DigitCounting.java)       | Uva-ACM-ICPC Live Archive        |
+| [Blowing Fuses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=602)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/BlowingFuses.java)       | Uva-ACM-ICPC Live Archive        |
+| [Secret Research](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=562)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/SecretResearch.java)       | Uva-ACM-ICPC Live Archive        |
+| [Box of Bricks](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=532)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/BoxBricks.java)       | Uva-ACM-ICPC Live Archive        |
+| [Clock Hands](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=520)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/ClockHands.java)       | Uva-ACM-ICPC Live Archive        |
+| [The Snail](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=514)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/TheSnail.java)       | Uva-ACM-ICPC Live Archive        |
+| [Train Swapping](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=235)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/TrainSwapping.java)       | Uva-ACM-ICPC Live Archive        |
+| [TEX Quotes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=208)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/TEXQuotes.java)       | Uva-ACM-ICPC Live Archive        |
+| [Power of Cryptography](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=49)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/PowerCryptography.java)       | Uva-ACM-ICPC Live Archive        |
+| [The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/The3n1problem.java)       | Uva-ACM-ICPC Live Archive        |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/BetweenTwoSets.java)       | Hackerrank.com        |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/DivisibleSumPairs.java)       | Hackerrank.com        |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/DesignerPDFViewer.java)       | Hackerrank.com        |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SockMerchant.java)       | Hackerrank.com        |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/UtopianTree.java)       | Hackerrank.com        |
+| [Twins](https://www.hackerrank.com/contests/w26/challenges/twins)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/Twin.java)       | Hackerrank.com        |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/AddTwoNumbers.java)       | LeetCode Online Judge        |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestSubstring.java)       | LeetCode Online Judge        |
+| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ZigZagConversion.java)       | LeetCode Online Judge        |
+| [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReverseInteger.java)       | LeetCode Online Judge        |
+| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/StringInteger.java)       | LeetCode Online Judge        |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/PalindromeNumber.java)       | LeetCode Online Judge        |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestPalindromicSubstring.java)       | LeetCode Online Judge        |
+| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RomanInteger.java)       | LeetCode Online Judge        |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestCommonPrefix.java)       | LeetCode Online Judge        |
