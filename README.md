@@ -37,4 +37,21 @@ My current statistic
 | [Summing Digits](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2307)   | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/SummingDigits.java)       | Uva-ACM-ICPC Live Archive        |
 | [Ternary](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2126)   | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/Ternary.java)       | Uva-ACM-ICPC Live Archive        |
 | [Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985)   | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/SearchingNessy.java)       | Uva-ACM-ICPC Live Archive        |
+
+| [Big Chocolate](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1911)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/BigChocolate.java)       | Uva-ACM-ICPC Live Archive        |
+| [The Swallowing Ground](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1904)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/SwallowingGround.java)       | Uva-ACM-ICPC Live Archive        |
+| [Prerequisites?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1860)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/Prerequisites.java)       | Uva-ACM-ICPC Live Archive        |
+| [Beat the Spread!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1753)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/BeatSpread.java)       | Uva-ACM-ICPC Live Archive        |
+| [Combination Lock](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1491)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/CombinationLock.java)       | Uva-ACM-ICPC Live Archive        |
+| [Love Calculator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1365)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/LoveCalculator.java)       | Uva-ACM-ICPC Live Archive        |
+| [Peter's Smokes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1287)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/PeterSmokes.java)       | Uva-ACM-ICPC Live Archive        |
+| [Flip Sort](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1268)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/uva/FlipSort.java)       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
+| []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
 | []()   | [Java]()       | Uva-ACM-ICPC Live Archive        |
