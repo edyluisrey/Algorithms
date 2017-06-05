@@ -77,3 +77,8 @@ My current statistic
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestPalindromicSubstring.java)       | LeetCode Online Judge        |
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RomanInteger.java)       | LeetCode Online Judge        |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestCommonPrefix.java)       | LeetCode Online Judge        |
+| [Word Ladder](https://leetcode.com/problems/word-ladder/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/WordLadder.java)      | LeetCode Online Judge        |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ValidParentheses.java)      | LeetCode Online Judge        |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MergeTwoSortedLists.java)      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
