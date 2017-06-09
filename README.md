@@ -1,6 +1,8 @@
 # Algorithms-Java
 
 Solutions to problems on algorithms from UVa Online Judge(ACM-ICPC Live Archive), hackerrank, Leetcode.com
+Using: Array,Hash Table,LinkedList, Binary Search, Dynamic Programming, Stack ,Heap, reedy,Sort,Tree
+DFS, BFS, Graph, Binary Search Tree, Recursion, Memoization, Queue ,Map,etc.
 
 My current statistic 
   - [UVa Online Judge - ACM-ICPC Live Archive](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=14&page=show_authorstats&userid=61430) 
@@ -87,5 +89,5 @@ My current statistic
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SymmetricTree.java)      | LeetCode Online Judge        |
 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/TreeSumClosest.java)      | LeetCode Online Judge        |
 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SortCharactersByFrequency.java)      | LeetCode Online Judge        |
-| []()   | [Java]()      | LeetCode Online Judge        |
+| [Kill Process](https://leetcode.com/problems/kill-process/#/description)   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
