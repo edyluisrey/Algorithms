@@ -2,8 +2,8 @@
 
 Solutions to problems on algorithms from UVa Online Judge(ACM-ICPC Live Archive), hackerrank, Leetcode.com
 
-Using: Array,Hash Table,LinkedList, Binary Search, Dynamic Programming, Stack ,Heap, reedy,Sort,Tree
-DFS, BFS, Graph, Binary Search Tree, Recursion, Memoization, Queue ,Map,etc.
+Using: Arrays, Hash Table, LinkedList, Binary Search, Dynamic Programming, Stack , Heap, reedy, Sort, Tree
+DFS, BFS, Graph, Binary Search Tree, Recursion, Memoization, Queue ,Map, etc.
 
 My current statistic 
   - [UVa Online Judge - ACM-ICPC Live Archive](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=14&page=show_authorstats&userid=61430) 
