@@ -98,6 +98,16 @@ My current statistic
 | [Min Stack](https://leetcode.com/problems/min-stack/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MinStack.java)      | LeetCode Online Judge        |
 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ImplementStackQueues.java)      | LeetCode Online Judge        |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SearchInsertPosition.java)      | LeetCode Online Judge        |
+| [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SumLeftLeavesTree.java)      | LeetCode Online Judge        |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MaximumDepthBinaryTree.java)      | LeetCode Online Judge        |
+| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/NextGreaterElementI.java)      | LeetCode Online Judge        |
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ImplementQueueusingStacks.java)      | LeetCode Online Judge        |
+| [Rotate Array]( https://leetcode.com/problems/reshape-the-matrix/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReshapetheMatrix.java)      | LeetCode Online Judge        |
+| [Rotate Array](https://leetcode.com/problems/rotate-array/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RotateArray.java)      | LeetCode Online Judge        |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BestTimeBuySellStock.java)      | LeetCode Online Judge        |
+| [Simplify Path](https://leetcode.com/problems/simplify-path/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SimplifyPath.java)      | LeetCode Online Judge        |
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/EvaluateReversePolishNotation.java)      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
