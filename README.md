@@ -107,6 +107,14 @@ My current statistic
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BestTimeBuySellStock.java)      | LeetCode Online Judge        |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SimplifyPath.java)      | LeetCode Online Judge        |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/EvaluateReversePolishNotation.java)      | LeetCode Online Judge        |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ContainsDuplicate.java)      | LeetCode Online Judge        |
+| [Decode String](https://leetcode.com/problems/decode-string/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/DecodeString.java)      | LeetCode Online Judge        |
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/Search2DMatrix.java)      | LeetCode Online Judge        |
+| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/NumMatrix.java)      | LeetCode Online Judge        |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ValidAnagram.java)      | LeetCode Online Judge        |
+| [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestWordDictionarythroughDeleting.java)      | LeetCode Online Judge        |
+| [Sort List](https://leetcode.com/problems/sort-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SortListTest.java)      | LeetCode Online Judge        |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SortColors.java)      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
@@ -115,3 +123,4 @@ My current statistic
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
+
