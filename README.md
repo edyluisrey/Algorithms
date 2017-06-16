@@ -115,9 +115,9 @@ My current statistic
 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestWordDictionarythroughDeleting.java)      | LeetCode Online Judge        |
 | [Sort List](https://leetcode.com/problems/sort-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SortListTest.java)      | LeetCode Online Judge        |
 | [Sort Colors](https://leetcode.com/problems/sort-colors/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SortColors.java)      | LeetCode Online Judge        |
-| []()   | [Java]()      | LeetCode Online Judge        |
-| []()   | [Java]()      | LeetCode Online Judge        |
-| []()   | [Java]()      | LeetCode Online Judge        |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MaximumSubarray.java)      | LeetCode Online Judge        |
+| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/NumArray.java)      | LeetCode Online Judge        |
+| [House Robber](https://leetcode.com/problems/house-robber/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/HouseRobber.java)      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
