@@ -9,9 +9,9 @@ My current statistic
   - [UVa Online Judge - ACM-ICPC Live Archive](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=14&page=show_authorstats&userid=61430) 
   - [Leetcode](https://leetcode.com/edyluisrey/)
 
-| problems                      | Solutions  | From
-| ------------------------------------------------------- |:------------:| --------------------------:|
-| [Google is Feeling Lucky](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3166)      | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/GoogleFeelingLucky.java)       | Uva-ACM-ICPC Live Archive        |
+| # | problems                      | Solutions  | From            |Tags, Notes
+| ------|:---------------------------------------------------- |:------------:| --------------------------:|--------------:|
+|1 | [Google is Feeling Lucky](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3166)      | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/GoogleFeelingLucky.java)       | Uva-ACM-ICPC Live Archive        | Array |
 | [Zeros and Ones](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1265)       | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/ZerosOnes.java)      | Uva-ACM-ICPC Live Archive        |
 | [What is the Median?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1048)       | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/WhatMedian.java)       | Uva-ACM-ICPC Live Archive        |
 | [P12578](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4023)   | [Java](https://github.com/edyluisrey/Algorithms-Java/blob/master/src/uva/P12578.java)       | Uva-ACM-ICPC Live Archive        |
@@ -118,6 +118,13 @@ My current statistic
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MaximumSubarray.java)      | LeetCode Online Judge        |
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/NumArray.java)      | LeetCode Online Judge        |
 | [House Robber](https://leetcode.com/problems/house-robber/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/HouseRobber.java)      | LeetCode Online Judge        |
+| [Single Number](https://leetcode.com/problems/single-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SingleNumber.java)      | LeetCode Online Judge        |
+| [Happy Number](https://leetcode.com/problems/happy-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/HappyNumber.java)      | LeetCode Online Judge        |
+| [Count Primes](https://leetcode.com/problems/count-primes/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CountPrimes.java)      | LeetCode Online Judge        |
+| [Word Pattern](https://leetcode.com/problems/word-pattern/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/WordPattern.java)      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
+| []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
 | []()   | [Java]()      | LeetCode Online Judge        |
