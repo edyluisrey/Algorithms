@@ -122,11 +122,11 @@ My current statistic
 |109| [Happy Number](https://leetcode.com/problems/happy-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/HappyNumber.java)      | LeetCode Online Judge        |
 |110| [Count Primes](https://leetcode.com/problems/count-primes/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CountPrimes.java)      | LeetCode Online Judge        |
 |111| [Word Pattern](https://leetcode.com/problems/word-pattern/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/WordPattern.java)      | LeetCode Online Judge        |Hash Table |
-|112| []()   | [Java]()      | LeetCode Online Judge        | |
-|113| []()   | [Java]()      | LeetCode Online Judge        | |
-|114| []()   | [Java]()      | LeetCode Online Judge        | |
-|115| []()   | [Java]()      | LeetCode Online Judge        | |
-|116| []()   | [Java]()      | LeetCode Online Judge        | |
+|112| [Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/KeyboardRow.java)      | LeetCode Online Judge        |HashTable,List|
+|113| [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LongestHarmoniousSubsequence.java)      | LeetCode Online Judge        |HashMap |
+|114| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BinaryTreeInorderTraversal.java)      | LeetCode Online Judge        | Tree |
+|115| [Clone Graph](https://leetcode.com/problems/clone-graph/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CloneGraph.java)      | LeetCode Online Judge        |Graph,BFS|
+|116| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MergeTwoBinaryTrees.java)      | LeetCode Online Judge        |Tree |
 |117| []()   | [Java]()      | LeetCode Online Judge        | |
 |118| []()   | [Java]()      | LeetCode Online Judge        | |
 |119| []()   | [Java]()      | LeetCode Online Judge        | |
