@@ -127,7 +127,20 @@ My current statistic
 |114| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BinaryTreeInorderTraversal.java)      | LeetCode Online Judge        | Tree |
 |115| [Clone Graph](https://leetcode.com/problems/clone-graph/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CloneGraph.java)      | LeetCode Online Judge        |Graph,BFS|
 |116| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MergeTwoBinaryTrees.java)      | LeetCode Online Judge        |Tree |
-|117| []()   | [Java]()      | LeetCode Online Judge        | |
-|118| []()   | [Java]()      | LeetCode Online Judge        | |
-|119| []()   | [Java]()      | LeetCode Online Judge        | |
+|117| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SubtreeAnotherTree.java)      | LeetCode Online Judge        |Tree |
+|118| [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BinaryTreeTilt.java)      | LeetCode Online Judge        |Tree |
+|119| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/DiameterBinaryTree.java)      | LeetCode Online Judge        |Tree, DFS |
+|120| []()   | [Java]()      | LeetCode Online Judge        | |
+|121| []()   | [Java]()      | LeetCode Online Judge        | |
+|122| []()   | [Java]()      | LeetCode Online Judge        | |
+|123| []()   | [Java]()      | LeetCode Online Judge        | |
+|124| []()   | [Java]()      | LeetCode Online Judge        | |
+|125| []()   | [Java]()      | LeetCode Online Judge        | |
+|126| []()   | [Java]()      | LeetCode Online Judge        | |
+|127| []()   | [Java]()      | LeetCode Online Judge        | |
+|128| []()   | [Java]()      | LeetCode Online Judge        | |
+|129| []()   | [Java]()      | LeetCode Online Judge        | |
+|130| []()   | [Java]()      | LeetCode Online Judge        | |
+|131| []()   | [Java]()      | LeetCode Online Judge        | |
+|132| []()   | [Java]()      | LeetCode Online Judge        | |
 
