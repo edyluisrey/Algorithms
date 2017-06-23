@@ -133,7 +133,7 @@ My current statistic
 |120| [Path Sum](https://leetcode.com/problems/path-sum/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/PathSum.java)      | LeetCode Online Judge        |Tree |
 |121| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RemoveDuplicatesfromSortedList.java)      | LeetCode Online Judge        |LinkedList |
 |122| [Rotate List](https://leetcode.com/problems/rotate-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RotateList.java)      | LeetCode Online Judge        |LinkedList |
-|123| []()   | [Java]()      | LeetCode Online Judge        | |
+|123| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReverseLinkedList.java)      | LeetCode Online Judge        | |
 |124| []()   | [Java]()      | LeetCode Online Judge        | |
 |125| []()   | [Java]()      | LeetCode Online Judge        | |
 |126| []()   | [Java]()      | LeetCode Online Judge        | |
