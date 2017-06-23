@@ -131,8 +131,8 @@ My current statistic
 |118| [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BinaryTreeTilt.java)      | LeetCode Online Judge        |Tree |
 |119| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/DiameterBinaryTree.java)      | LeetCode Online Judge        |Tree, DFS |
 |120| [Path Sum](https://leetcode.com/problems/path-sum/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/PathSum.java)      | LeetCode Online Judge        |Tree |
-|121| []()   | [Java]()      | LeetCode Online Judge        | |
-|122| []()   | [Java]()      | LeetCode Online Judge        | |
+|121| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RemoveDuplicatesfromSortedList.java)      | LeetCode Online Judge        |LinkedList |
+|122| [Rotate List](https://leetcode.com/problems/rotate-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RotateList.java)      | LeetCode Online Judge        |LinkedList |
 |123| []()   | [Java]()      | LeetCode Online Judge        | |
 |124| []()   | [Java]()      | LeetCode Online Judge        | |
 |125| []()   | [Java]()      | LeetCode Online Judge        | |
