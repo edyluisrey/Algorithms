@@ -136,7 +136,7 @@ My current statistic
 |123| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReverseLinkedList.java)      | LeetCode Online Judge        | |
 |124| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/GuessNumberHigherorLower.java)      | LeetCode Online Judge        |BS |
 |125| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/TwoSumIInputarrayissorted.java)      | LeetCode Online Judge        |BS |
-|126| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BeautifulArrangement.java)      | LeetCode Online Judge        |backtrack.. |
+|126| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BeautifulArrangement.java)      | LeetCode Online Judge        |Backtracking |
 |127| []()   | [Java]()      | LeetCode Online Judge        | |
 |128| []()   | [Java]()      | LeetCode Online Judge        | |
 |129| []()   | [Java]()      | LeetCode Online Judge        | |
