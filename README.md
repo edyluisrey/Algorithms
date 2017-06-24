@@ -134,7 +134,7 @@ My current statistic
 |121| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RemoveDuplicatesfromSortedList.java)      | LeetCode Online Judge        |LinkedList |
 |122| [Rotate List](https://leetcode.com/problems/rotate-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RotateList.java)      | LeetCode Online Judge        |LinkedList |
 |123| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReverseLinkedList.java)      | LeetCode Online Judge        | |
-|124| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/GuessNumberHigherorLower.java)      | LeetCode Online Judge        |Binary-search |
+|124| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/GuessNumberHigherorLower.java)      | LeetCode Online Judge        |BS |
 |125| []()   | [Java]()      | LeetCode Online Judge        | |
 |126| []()   | [Java]()      | LeetCode Online Judge        | |
 |127| []()   | [Java]()      | LeetCode Online Judge        | |
