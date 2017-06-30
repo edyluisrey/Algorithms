@@ -137,10 +137,21 @@ My current statistic
 |124| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/GuessNumberHigherorLower.java)      | LeetCode Online Judge        |BS |
 |125| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/TwoSumIInputarrayissorted.java)      | LeetCode Online Judge        |BS |
 |126| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BeautifulArrangement.java)      | LeetCode Online Judge        |Backtracking |
-|127| []()   | [Java]()      | LeetCode Online Judge        | |
-|128| []()   | [Java]()      | LeetCode Online Judge        | |
-|129| []()   | [Java]()      | LeetCode Online Judge        | |
-|130| []()   | [Java]()      | LeetCode Online Judge        | |
-|131| []()   | [Java]()      | LeetCode Online Judge        | |
-|132| []()   | [Java]()      | LeetCode Online Judge        | |
+|127| [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/DeleteOperationforTwoStrings.java)      | LeetCode Online Judge        |DP |
+|128| [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ConstructStringfromBinaryTree.java)      | LeetCode Online Judge        |Tree |
+|129| [Optimal Division](https://leetcode.com/problems/optimal-division/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/OptimalDivision.java)      | LeetCode Online Judge        |String |
+|130| [Count and Say](https://leetcode.com/problems/count-and-say/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CountandSay.java)      | LeetCode Online Judge        | |
+|131| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MergeSortedArray.java)      | LeetCode Online Judge        | |
+|132| [Permutations](https://leetcode.com/problems/permutations/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/Permutations.java)      | LeetCode Online Judge        |Backtracking |
+|133| []()   | [Java]()      | LeetCode Online Judge        | |
+|134| []()   | [Java]()      | LeetCode Online Judge        | |
+|135| []()   | [Java]()      | LeetCode Online Judge        | |
+|136| []()   | [Java]()      | LeetCode Online Judge        | |
+|137| []()   | [Java]()      | LeetCode Online Judge        | |
+|138| []()   | [Java]()      | LeetCode Online Judge        | |
+|139| []()   | [Java]()      | LeetCode Online Judge        | |
+|140| []()   | [Java]()      | LeetCode Online Judge        | |
+|141| []()   | [Java]()      | LeetCode Online Judge        | |
+|142| []()   | [Java]()      | LeetCode Online Judge        | |
+|143| []()   | [Java]()      | LeetCode Online Judge        | |
 
