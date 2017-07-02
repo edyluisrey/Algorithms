@@ -143,15 +143,16 @@ My current statistic
 |130| [Count and Say](https://leetcode.com/problems/count-and-say/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/CountandSay.java)      | LeetCode Online Judge        | |
 |131| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MergeSortedArray.java)      | LeetCode Online Judge        | |
 |132| [Permutations](https://leetcode.com/problems/permutations/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/Permutations.java)      | LeetCode Online Judge        |Backtracking |
-|133| []()   | [Java]()      | LeetCode Online Judge        | |
-|134| []()   | [Java]()      | LeetCode Online Judge        | |
-|135| []()   | [Java]()      | LeetCode Online Judge        | |
-|136| []()   | [Java]()      | LeetCode Online Judge        | |
-|137| []()   | [Java]()      | LeetCode Online Judge        | |
-|138| []()   | [Java]()      | LeetCode Online Judge        | |
-|139| []()   | [Java]()      | LeetCode Online Judge        | |
-|140| []()   | [Java]()      | LeetCode Online Judge        | |
-|141| []()   | [Java]()      | LeetCode Online Judge        | |
+|133| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MaximumDistanceinArrays.java)      | LeetCode Online Judge        | |
+|134| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/FizzBuzz.java)      | LeetCode Online Judge        | |
+|135| [Reverse String](https://leetcode.com/problems/reverse-string/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReverseString.java)      | LeetCode Online Judge        | |
+|136| [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MoveZeroes.java)      | LeetCode Online Judge        | |
+|137| [Missing Number](https://leetcode.com/problems/missing-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MissingNumber.java)      | LeetCode Online Judge        | |
+|138| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/RepeatedDNASequences.java)      | LeetCode Online Judge        | |
+|139| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SumofSquareNumbers.java)      | LeetCode Online Judge        | |
+|140| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SumofTwoIntegers.java)      | LeetCode Online Judge        | Bit M. |
+|141| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ExcelSheetColumnNumber.java)      | LeetCode Online Judge        | |
 |142| []()   | [Java]()      | LeetCode Online Judge        | |
 |143| []()   | [Java]()      | LeetCode Online Judge        | |
+
 
