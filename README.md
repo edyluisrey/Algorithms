@@ -152,7 +152,32 @@ My current statistic
 |139| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SumofSquareNumbers.java)      | LeetCode Online Judge        | |
 |140| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SumofTwoIntegers.java)      | LeetCode Online Judge        | Bit M. |
 |141| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ExcelSheetColumnNumber.java)      | LeetCode Online Judge        | |
-|142| []()   | [Java]()      | LeetCode Online Judge        | |
-|143| []()   | [Java]()      | LeetCode Online Judge        | |
+|142| [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ArrayPartitionI.java)      | LeetCode Online Judge        |MergeSort |
+|143| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MaxConsecutiveOnes.java)      | LeetCode Online Judge        | |
+|144| [Triangle](https://leetcode.com/problems/triangle/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/Triangle.java)      | LeetCode Online Judge        | |
+|145| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/MinimumPathSum.java)      | LeetCode Online Judge        | |
+|146| [ Summary Ranges](https://leetcode.com/problems/summary-ranges/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/SummaryRanges.java)      | LeetCode Online Judge        | |
+|147| [Partition List](https://leetcode.com/problems/partition-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/PartitionList.java)      | LeetCode Online Judge        | |
+|148| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/LinkedListCycleHas.java)      | LeetCode Online Judge        |LinkedList |
+|149| [Reorder List](https://leetcode.com/problems/reorder-list/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/ReorderList.java)      | LeetCode Online Judge        |LinkedList |
+|150| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode/BalancedBinaryTree.java)      | LeetCode Online Judge        |Tree |
+|151| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description)   | [Java]()      | LeetCode Online Judge        |Tree |
+|152| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|153| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)   | [Java]()      | LeetCode Online Judge        |DFS |
+|154| [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|155| [Path Sum III](https://leetcode.com/problems/path-sum-iii/#/description)   | [Java]()      | LeetCode Online Judge        |Tree |
+|156| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|157| [ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|158| [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|159| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description)   | [Java]()      | LeetCode Online Judge        |Tree |
+|160| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|161| [https://leetcode.com/problems/kth-largest-element-in-an-array/#/description](Kth Largest Element in an Array)   | [Java]()      | LeetCode Online Judge        | |
+|162| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|163| [Rotate List](https://leetcode.com/problems/rotate-list/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|164| [Combinations](https://leetcode.com/problems/combinations/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|165| [Path Sum II](https://leetcode.com/problems/path-sum-ii/#/description)   | [Java]()      | LeetCode Online Judge        | |
+|166| []()   | [Java]()      | LeetCode Online Judge        | |
+|167| []()   | [Java]()      | LeetCode Online Judge        | |
+|168| []()   | [Java]()      | LeetCode Online Judge        | |
 
 
