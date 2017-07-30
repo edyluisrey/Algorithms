@@ -179,28 +179,18 @@ My current statistic
 |166| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/#/description)   | [Java]()      | LeetCode Online Judge        | |
 |167| [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/#/description)   | [Java]()      | LeetCode Online Judge        | |
 |168| [Combination Sum](https://leetcode.com/problems/combination-sum/#/description)   | [Java]()      | LeetCode Online Judge        | |
-|169| []()   | [Java]()      | LeetCode Online Judge        | |
-|170| []()   | [Java]()      | LeetCode Online Judge        | |
-|171| []()   | [Java]()      | LeetCode Online Judge        | |
-|172| []()   | [Java]()      | LeetCode Online Judge        | |
-|173| []()   | [Java]()      | LeetCode Online Judge        | |
-|174| []()   | [Java]()      | LeetCode Online Judge        | |
-|175| []()   | [Java]()      | LeetCode Online Judge        | |
-|176| []()   | [Java]()      | LeetCode Online Judge        | |
-|177| []()   | [Java]()      | LeetCode Online Judge        | |
-|178| []()   | [Java]()      | LeetCode Online Judge        | |
-|| [First Duplicate](https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/FirstDuplicate.java)      | Codefights        | |
-|| [First Not Repeating Character](https://codefights.com/interview-practice/task/uX5iLwhc6L5ckSyNC)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/FirstNotRepeatingCharacter.java)      | Codefights        | |
-|| [Rotate Image](https://codefights.com/interview-practice/task/5A8jwLGcEpTPyyjTB)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/RotateImage.java)      | Codefights        | |
-|| [Is CryptSolution](https://codefights.com/interview-practice/task/yM4uWYeQTHzYewW9H)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/IsCryptSolution.java)      | Codefights        | |
-|| [Remove K From List](https://codefights.com/interview-practice/task/gX7NXPBrYThXZuanm)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/RemoveKFromList.java)      | Codefights        |Linkedlist |
-|| [Is List Palindrome](https://codefights.com/interview-practice/task/HmNvEkfFShPhREMn4)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/IsListPalindrome.java)      | Codefights        |Linkedlist |
-|| [Add Two Huge Numbers](https://codefights.com/interview-practice/task/RvDFbsNC3Xn7pnQfH)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/AddTwoHugeNumbers.java)      | Codefights        |Linkedlist |
-|| [Merge Two LinkedLists](https://codefights.com/interview-practice/task/6rE3maCQwrZS3Mm2H)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/MergeTwoLinkedLists.java)      | Codefights        | |
-|| [Reverse Nodes In K Groups](https://codefights.com/interview-practice/task/XP2Wn9pwZW6hvqH67)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/ReverseNodesInKGroups.java)      | Codefights        | |
-|| [Rearrange Last N](https://codefights.com/interview-practice/task/5vcioHMkhGqkaQQYt)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/RearrangeLastN.java)      | Codefights        | |
-|| [Grouping Dishes](https://codefights.com/interview-practice/task/xrFgR63cw7Nch4vXo)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/HashTables/GroupingDishes.java)      | Codefights        |HashTable |
-|| [Are Following Patterns](https://codefights.com/interview-practice/task/3PcnSKuRkqzp8F6BN)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/tree/master/src/hashTables)      | Codefights        |HashTable |
+|169| [First Duplicate](https://codefights.com/interview-practice/task/pMvymcahZ8dY4g75q)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/FirstDuplicate.java)      | Codefights        | |
+|170| [First Not Repeating Character](https://codefights.com/interview-practice/task/uX5iLwhc6L5ckSyNC)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/FirstNotRepeatingCharacter.java)      | Codefights        | |
+|171| [Rotate Image](https://codefights.com/interview-practice/task/5A8jwLGcEpTPyyjTB)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/RotateImage.java)      | Codefights        | |
+|172| [Is CryptSolution](https://codefights.com/interview-practice/task/yM4uWYeQTHzYewW9H)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/arrays/IsCryptSolution.java)      | Codefights        | |
+|173| [Remove K From List](https://codefights.com/interview-practice/task/gX7NXPBrYThXZuanm)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/RemoveKFromList.java)      | Codefights        |Linkedlist |
+|174| [Is List Palindrome](https://codefights.com/interview-practice/task/HmNvEkfFShPhREMn4)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/IsListPalindrome.java)      | Codefights        |Linkedlist |
+|175| [Add Two Huge Numbers](https://codefights.com/interview-practice/task/RvDFbsNC3Xn7pnQfH)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/AddTwoHugeNumbers.java)      | Codefights        |Linkedlist |
+|176| [Merge Two LinkedLists](https://codefights.com/interview-practice/task/6rE3maCQwrZS3Mm2H)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/MergeTwoLinkedLists.java)      | Codefights        | |
+|177| [Reverse Nodes In K Groups](https://codefights.com/interview-practice/task/XP2Wn9pwZW6hvqH67)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/ReverseNodesInKGroups.java)      | Codefights        | |
+|178| [Rearrange Last N](https://codefights.com/interview-practice/task/5vcioHMkhGqkaQQYt)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/linkedlist/RearrangeLastN.java)      | Codefights        | |
+|179| [Grouping Dishes](https://codefights.com/interview-practice/task/xrFgR63cw7Nch4vXo)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/HashTables/GroupingDishes.java)      | Codefights        |HashTable |
+|180| [Are Following Patterns](https://codefights.com/interview-practice/task/3PcnSKuRkqzp8F6BN)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/tree/master/src/hashTables)      | Codefights        |HashTable |
 || [Contains Close Nums](https://codefights.com/interview-practice/task/njfXsvjRthFKmMwLC)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/hashTables/ContainsCloseNums.java)      | Codefights        |HashTable |
 || [Has Path With Given Sum](https://codefights.com/interview-practice/task/TG4tEMPnAc3PnzRCs)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/trees/HasPathWithGivenSum.java)      | Codefights        |Tree |
 || [Is Tree Symmetric](https://codefights.com/interview-practice/task/tXN6wQsTknDT6bNrf)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/trees/IsTreeSymmetric.java)      | Codefights        | |
