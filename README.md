@@ -205,9 +205,17 @@ My current statistic
 |192| [Compose Ranges](https://codefights.com/interview-practice/task/cHYqbQ9DiWmejAdeG)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/dynamicProgramming/ComposeRanges.java)      | Codefights        |DP |
 |193| [Map Decoding](https://codefights.com/interview-practice/task/7o2Aba2Zep3MJPKQ3)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/dynamicProgramming/MapDecoding.java)      | Codefights        | |
 |194| [Climbing Stair case](https://codefights.com/interview-practice/task/cAXEnPyzknC5zgd7x)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/Backtracking/ClimbingStaircase.java)      | Codefights        | |
-|| []()   | [Java]()      | Codefights        | |
-|| []()   | [Java]()      | Codefights        | |
-|| []()   | [Java]()      | Codefights        | |
+|195| [Contains Duplicates](https://codefights.com/interview-practice/task/CfknJzPmdbstXhsoJ)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/ContainsDuplicates.java)      | Codefights        | |
+|196| [Sum Of Two](https://codefights.com/interview-practice/task/Hm98RnqK9Be575yoj)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/SumOfTwo.java)      | Codefights        | |
+|197| [Sum In Range](https://codefights.com/interview-practice/task/4MoqQLaw22nrzXbgs)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/SumInRange.java)      | Codefights        | |
+|198| [Array Max Consecutive Sum2](https://codefights.com/interview-practice/task/dQD4TCunke2JQ98rj)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/ArrayMaxConsecutiveSum2.java)      | Codefights        | |
+|199| [Find Longest Subarray By Sum](https://codefights.com/interview-practice/task/izLStwkDr5sMS9CEm)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/FindLongestSubarrayBySum.java)      | Codefights        | |
+|200| [Product Except Self](https://codefights.com/interview-practice/task/gxzW6jpXXkr3JNwXy)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/ProductExceptSelf.java)      | Codefights        | |
+|201| []()   | [Java]()      | Codefights        | |
+|202| []()   | [Java]()      | Codefights        | |
+|203| []()   | [Java]()      | Codefights        | |
+|204| []()   | [Java]()      | Codefights        | |
+|205| []()   | [Java]()      | Codefights        | |
 || []()   | [Java]()      | Codefights        | |
 
 
