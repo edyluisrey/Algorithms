@@ -212,7 +212,7 @@ My current statistic
 |199| [Find Longest Subarray By Sum](https://codefights.com/interview-practice/task/izLStwkDr5sMS9CEm)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/FindLongestSubarrayBySum.java)      | Codefights        | |
 |200| [Product Except Self](https://codefights.com/interview-practice/task/gxzW6jpXXkr3JNwXy)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/ProductExceptSelf.java)      | Codefights        | |
 |201| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/JudgeRouteCircle.java)      | LeetCode Online Judge        | |
-|202| []()   | [Java]()      | Codefights        | |
+|202| [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/AnagramMappings.java)      | LeetCode Online Judge        | |
 |203| []()   | [Java]()      | Codefights        | |
 |204| []()   | [Java]()      | Codefights        | |
 |205| []()   | [Java]()      | Codefights        | |
