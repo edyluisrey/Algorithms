@@ -213,9 +213,22 @@ My current statistic
 |200| [Product Except Self](https://codefights.com/interview-practice/task/gxzW6jpXXkr3JNwXy)   | [Java](https://github.com/edyluisrey/Codefights-Algorithms/blob/master/src/CommonTechniques/ProductExceptSelf.java)      | Codefights        | |
 |201| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/JudgeRouteCircle.java)      | LeetCode Online Judge        | |
 |202| [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/AnagramMappings.java)      | LeetCode Online Judge        | |
-|203| []()   | [Java]()      | Codefights        | |
-|204| []()   | [Java]()      | Codefights        | |
-|205| []()   | [Java]()      | Codefights        | |
-|| []()   | [Java]()      | Codefights        | |
+|203| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/JewelsandStones.java)      | LeetCode Online Judge        | |
+|204| []()   | [Java]()      | LeetCode Online Judge        | |
+|205| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
+|| []()   | [Java]()      | LeetCode Online Judge        | |
 
 
