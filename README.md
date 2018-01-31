@@ -215,20 +215,20 @@ My current statistic
 |202| [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/AnagramMappings.java)      | LeetCode Online Judge        | |
 |203| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/JewelsandStones.java)      | LeetCode Online Judge        | |
 |204| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/SelfDividingNumbers.java)      | LeetCode Online Judge        | |
-|205| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
-|| []()   | [Java]()      | LeetCode Online Judge        | |
+|205| [Baseball Game](https://leetcode.com/problems/baseball-game/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/BaseballGame.java)      | LeetCode Online Judge        | |
+|206| []()   | [Java]()      | LeetCode Online Judge        | |
+|207| []()   | [Java]()      | LeetCode Online Judge        | |
+|208| []()   | [Java]()      | LeetCode Online Judge        | |
+|209| []()   | [Java]()      | LeetCode Online Judge        | |
+|210| []()   | [Java]()      | LeetCode Online Judge        | |
+|211| []()   | [Java]()      | LeetCode Online Judge        | |
+|212| []()   | [Java]()      | LeetCode Online Judge        | |
+|213| []()   | [Java]()      | LeetCode Online Judge        | |
+|214| []()   | [Java]()      | LeetCode Online Judge        | |
+|215| []()   | [Java]()      | LeetCode Online Judge        | |
+|216| []()   | [Java]()      | LeetCode Online Judge        | |
+|217| []()   | [Java]()      | LeetCode Online Judge        | |
+|218| []()   | [Java]()      | LeetCode Online Judge        | |
+|219| []()   | [Java]()      | LeetCode Online Judge        | |
 
 
