@@ -216,7 +216,7 @@ My current statistic
 |203| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/JewelsandStones.java)      | LeetCode Online Judge        | |
 |204| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/SelfDividingNumbers.java)      | LeetCode Online Judge        | |
 |205| [Baseball Game](https://leetcode.com/problems/baseball-game/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/BaseballGame.java)      | LeetCode Online Judge        | |
-|206| []()   | [Java]()      | LeetCode Online Judge        | |
+|206| [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/ToeplitzMatrix.java)      | LeetCode Online Judge        | |
 |207| []()   | [Java]()      | LeetCode Online Judge        | |
 |208| []()   | [Java]()      | LeetCode Online Judge        | |
 |209| []()   | [Java]()      | LeetCode Online Judge        | |
