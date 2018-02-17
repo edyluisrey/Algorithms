@@ -223,7 +223,7 @@ My current statistic
 |210| [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/AssignCookies.java)      | LeetCode Online Judge        | |
 |211| [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/StudentAttendanceRecordI.java)      | LeetCode Online Judge        | |
 |212| [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/FindtheDifference.java)      | LeetCode Online Judge        | |
-|213| []()   | [Java]()      | LeetCode Online Judge        | |
+|213| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/discuss/89604/Simple-HashSet-solution-Java)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/LongestPalindrome.java)      | LeetCode Online Judge        | |
 |214| []()   | [Java]()      | LeetCode Online Judge        | |
 |215| []()   | [Java]()      | LeetCode Online Judge        | |
 |216| []()   | [Java]()      | LeetCode Online Judge        | |
