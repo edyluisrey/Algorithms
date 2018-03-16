@@ -226,7 +226,7 @@ My current statistic
 |213| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/discuss/89604/Simple-HashSet-solution-Java)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/LongestPalindrome.java)      | LeetCode Online Judge        | |
 |214| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/NondecreasingArray.java)      | LeetCode Online Judge        | |
 |215| [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/CountBinarySubstrings.java)      | LeetCode Online Judge        | |
-|216| []()   | [Java]()      | LeetCode Online Judge        | |
+|216| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/ContainsDuplicateII.java)      | LeetCode Online Judge        | |
 |217| []()   | [Java]()      | LeetCode Online Judge        | |
 |218| []()   | [Java]()      | LeetCode Online Judge        | |
 |219| []()   | [Java]()      | LeetCode Online Judge        | |
