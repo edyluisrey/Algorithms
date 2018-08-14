@@ -227,8 +227,31 @@ My current statistic
 |214| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/NondecreasingArray.java)      | LeetCode Online Judge        | |
 |215| [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/CountBinarySubstrings.java)      | LeetCode Online Judge        | |
 |216| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/ContainsDuplicateII.java)      | LeetCode Online Judge        | |
-|217| []()   | [Java]()      | LeetCode Online Judge        | |
-|218| []()   | [Java]()      | LeetCode Online Judge        | |
-|219| []()   | [Java]()      | LeetCode Online Judge        | |
+|217| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/TwoDArrayDS.java)      | Hackerrank        | |
+|218| []()   | [Java]()      |  Hackerrank       | |
+|219| []()   | [Java]()      |  Hackerrank       | |
+|220| []()   | [Java]()      |  Hackerrank       | |
+|221| []()   | [Java]()      |  Hackerrank       | |
+|222| []()   | [Java]()      |  Hackerrank       | |
+|223| []()   | [Java]()      |  Hackerrank       | |
+|224| []()   | [Java]()      |  Hackerrank       | |
+|225| []()   | [Java]()      |  Hackerrank       | |
+|226| []()   | [Java]()      |  Hackerrank       | |
+|227| []()   | [Java]()      |  Hackerrank       | |
+|228| []()   | [Java]()      |  Hackerrank       | |
+|229| []()   | [Java]()      |  Hackerrank       | |
+|230| []()   | [Java]()      |  Hackerrank       | |
+|231| []()   | [Java]()      |  Hackerrank       | |
+|232| []()   | [Java]()      |  Hackerrank       | |
+|233| []()   | [Java]()      |  Hackerrank       | |
+|234| []()   | [Java]()      |  Hackerrank       | |
+|235| []()   | [Java]()      |  Hackerrank       | |
+|236| []()   | [Java]()      |  Hackerrank       | |
+|237| []()   | [Java]()      |  Hackerrank       | |
+|238| []()   | [Java]()      |  Hackerrank       | |
+|239| []()   | [Java]()      |  Hackerrank       | |
+|240| []()   | [Java]()      |  Hackerrank       | |
+|241| []()   | [Java]()      |  Hackerrank       | |
+|242| []()   | [Java]()      |  Hackerrank       | |
 
 
