@@ -228,7 +228,7 @@ My current statistic
 |215| [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/CountBinarySubstrings.java)      | LeetCode Online Judge        | |
 |216| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/ContainsDuplicateII.java)      | LeetCode Online Judge        | |
 |217| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/TwoDArrayDS.java)      | Hackerrank        | |
-|218| []()   | [Java]()      |  Hackerrank       | |
+|218| [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/ArraysLeftRotation.java)      |  Hackerrank       | |
 |219| []()   | [Java]()      |  Hackerrank       | |
 |220| []()   | [Java]()      |  Hackerrank       | |
 |221| []()   | [Java]()      |  Hackerrank       | |
