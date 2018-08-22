@@ -230,7 +230,7 @@ My current statistic
 |217| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/TwoDArrayDS.java)      | Hackerrank        | |
 |218| [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/ArraysLeftRotation.java)      |  Hackerrank       | |
 |219| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/HashTablesRansomNote.java)      |  Hackerrank       | |
-|220| []()   | [Java]()      |  Hackerrank       | |
+|220| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/NewYearChaos.java)      |  Hackerrank       | |
 |221| []()   | [Java]()      |  Hackerrank       | |
 |222| []()   | [Java]()      |  Hackerrank       | |
 |223| []()   | [Java]()      |  Hackerrank       | |
