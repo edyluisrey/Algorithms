@@ -232,7 +232,7 @@ My current statistic
 |219| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/HashTablesRansomNote.java)      |  Hackerrank       | |
 |220| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/NewYearChaos.java)      |  Hackerrank       | |
 |221| [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/MinimumSwaps2.java)      |  Hackerrank       | |
-|222| []()   | [Java]()      |  Hackerrank       | |
+|222| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SherlockandAnagrams.java)      |  Hackerrank       | |
 |223| []()   | [Java]()      |  Hackerrank       | |
 |224| []()   | [Java]()      |  Hackerrank       | |
 |225| []()   | [Java]()      |  Hackerrank       | |
