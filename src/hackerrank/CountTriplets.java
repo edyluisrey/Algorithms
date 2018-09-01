@@ -4,25 +4,29 @@ import java.util.HashMap;
 import java.util.List;
 
 public class CountTriplets {
+	
 	// Complete the countTriplets function below.
 	static long countTriplets(List<Long> arr, long r) {
 	  int re = 0;  
 	  HashMap<Long, Integer> map1 = new HashMap<>();
 	  HashMap<Long, Integer> map2 = new HashMap<>();  
+	  for(int i =0; i< arr.size(); i++)
+	      map1.put(arr.get(i), map1.getOrDefault(arr.get(i),0)+1);   
+	    
 	  for(int i= 0; i < arr.size(); i++){
 	      Long n= arr.get(i);
-	      if(n%r==0){
-	          Integer prev1 = map1.get(n/r); System.out.println("prv1:"+prev1);
-	          if(prev1!=null){ 
-	              map2.put(n, map2.getOrDefault(n,0)+ prev1);
-	          }
-	          Integer prev2= map2.get(n/r);  System.out.println("prv2:"+prev2);
-	          if(prev2!=null){
-	              re+=prev2;
-	          }
+	      if(n%r==0 && r!=1){
+	          Integer left = map2.get(n/r);
+	          Integer rest = map2.get(n*r);
+	          Integer right= map1.get(n*r);
+	          if(rest!= null && right!=null)
+	              right= right - rest;
+	          if(left!=null && right!=null)
+	              re+= left* right;
 	      }
-	      map1.put(n, map1.getOrDefault(n,0)+1);   
-	  }
+	      map2.put(n, map2.getOrDefault(n,0)+1);     
+	  } 
+	  System.out.println(re);  
 	  return re;  
 	}
 }
