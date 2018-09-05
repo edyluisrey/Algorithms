@@ -29,4 +29,8 @@ public class CountTriplets {
 	  System.out.println(re);  
 	  return re;  
 	}
+	
+	public static void main(String[] args){
+		
+	}
 }
