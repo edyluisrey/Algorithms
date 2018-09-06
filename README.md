@@ -234,7 +234,7 @@ My current statistic
 |221| [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/MinimumSwaps2.java)      |  Hackerrank       | |
 |222| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SherlockandAnagrams.java)      |  Hackerrank       | |
 |223| [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/CountTriplets.java)      |  Hackerrank       | |
-|224| []()   | [Java]()      |  Hackerrank       | |
+|224| [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/FrequencyQueries.java)      |  Hackerrank       | |
 |225| []()   | [Java]()      |  Hackerrank       | |
 |226| []()   | [Java]()      |  Hackerrank       | |
 |227| []()   | [Java]()      |  Hackerrank       | |
