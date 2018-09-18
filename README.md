@@ -238,7 +238,7 @@ My current statistic
 |225| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/ArrayManipulation.java)      |  Hackerrank       | |
 |226| [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/MakingAnagrams.java)      |  Hackerrank       | |
 |227| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SherlockValid.java)      |  Hackerrank       | |
-|228| []()   | [Java]()      |  Hackerrank       | |
+|228| [Special Palindrome Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SpecialPalindromeAgain.java)      |  Hackerrank       | |
 |229| []()   | [Java]()      |  Hackerrank       | |
 |230| []()   | [Java]()      |  Hackerrank       | |
 |231| []()   | [Java]()      |  Hackerrank       | |
