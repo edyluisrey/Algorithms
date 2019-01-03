@@ -239,6 +239,14 @@ My current statistic
 |226| [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/MakingAnagrams.java)      |  Hackerrank       | |
 |227| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SherlockValid.java)      |  Hackerrank       | |
 |228| [Special Palindrome Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SpecialPalindromeAgain.java)      |  Hackerrank       | |
-
+|229| [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/LongestWordDictionary.java)      |  Leetcode       |Trie |
+|230| []()   | [Java]()      |  Leetcode       | |
+|231| []()   | [Java]()      |  Leetcode       | |
+|232| []()   | [Java]()      |  Leetcode       | |
+|233| []()   | [Java]()      |  Leetcode       | |
+|234| []()   | [Java]()      |  Leetcode       | |
+|235| []()   | [Java]()      |  Leetcode       | |
+|236| []()   | [Java]()      |  Leetcode       | |
+|237| []()   | [Java]()      |  Leetcode       | |
 
 
