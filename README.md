@@ -241,7 +241,7 @@ My current statistic
 |228| [Special Palindrome Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings)   | [Java](https://github.com/edyluisrey/Algorithms/blob/master/src/hackerrank/SpecialPalindromeAgain.java)      |  Hackerrank       | |
 |229| [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/LongestWordDictionary.java)      |  Leetcode       |Trie |
 |230| [ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/ImplementPrefixTree.java)      |  Leetcode       |Trie |
-|231| []()   | [Java]()      |  Leetcode       | |
+|231| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)   | [Java](https://github.com/edyluisrey/Leetcode-Algorithms/blob/master/src/leetcode2018/MaxAreaofIsland.java)      |  Leetcode       | DFS|
 |232| []()   | [Java]()      |  Leetcode       | |
 |233| []()   | [Java]()      |  Leetcode       | |
 |234| []()   | [Java]()      |  Leetcode       | |
